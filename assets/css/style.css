@@ -596,6 +596,10 @@ button.swiper-pagination-bullet {
     flex-wrap: nowrap;
 }
 
+.nav.show .nav__item {
+    margin: 5px 0;
+}
+
 .nav.show .nav__link {
     font-size: 1.125rem;
     font-weight: 500;
